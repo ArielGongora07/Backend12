@@ -2,7 +2,7 @@
   "name": "aa-4.1-tests-unitarios",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "matchers.test.js",
   "scripts": {
     "test": "jest"
   },
